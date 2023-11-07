@@ -1,0 +1,45 @@
+# Ignore Python byte code files
+__pycache__/
+*.pyc
+
+# Ignore database files
+*.sqlite3
+
+# Ignore environment-specific settings
+.env
+
+# Ignore log files
+log/
+logs/
+
+# Ignore media files (user-uploaded content)
+media/
+
+# Ignore static files (collected assets)
+staticfiles/
+static/
+
+# Ignore local development settings
+*.log
+*.pot
+*.pyc
+db.sqlite3
+local_settings.py
+
+# Ignore virtual environment files
+venv/
+.env/
+pip-selfcheck.json
+
+# Ignore secret keys and sensitive information
+*.secret
+
+# Ignore IDE and text editor-specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
