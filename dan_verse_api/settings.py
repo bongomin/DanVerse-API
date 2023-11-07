@@ -58,6 +58,7 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'dan_verse_api.wsgi.application'
+AUTH_USER_MODEL = 'userAuth.CustomUser'
 
 
 # Database
