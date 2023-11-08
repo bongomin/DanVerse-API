@@ -11,7 +11,7 @@ DanVerse API is a Django RESTful API I designed to manage blog posts, comments, 
 - **Tags:** Categorize blog posts using tags.
 - **Likes and Loves:** Add likes and loves to blog posts.
 
-<img width="1437" alt="Screenshot 2023-11-08 at 4 31 57 PM" src="https://github.com/bongomin/DanVerse-API/assets/39218838/156c2288-f4c6-4599-8d68-acfb356aa125">
+<img width="1437" alt="restful" src="https://github.com/bongomin/DanVerse-API/assets/39218838/35039138-3cfb-42f5-9c41-62e2f7fd47ec">
 
 ## API Endpoints
 
