@@ -7,7 +7,7 @@ class CustomUserAdmin(UserAdmin):
     list_display = ('email', 'username', 'first_name', 'last_name', 'is_staff', 'is_general_user', 'is_superuser', 'is_active')
     list_filter = ('is_staff', 'is_superuser', 'is_active')
 
-    list_editable = ('is_active', 'is_staff', 'is_superuser')
+    list_editable = ('username', 'first_name', 'last_name', 'is_active', 'is_staff', 'is_superuser')
 
     fieldsets = (
         (None, {'fields': ('email', 'password')}),
