@@ -71,23 +71,23 @@ AUTH_USER_MODEL = 'userAuth.CustomUser'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
-    }
-}
-
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'railway',
-#         'USER': 'postgres',
-#         'PASSWORD': 'EGMsnnLGQuzQpRBGyKUG',
-#         'HOST': 'containers-us-west-76.railway.app',
-#         'PORT': '5457',
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'railway',
+        'USER': 'postgres',
+        'PASSWORD': '*3aCGcFA25bfE-454B54ED22DCE*A3B1',
+        'HOST': 'viaduct.proxy.rlwy.net',
+        'PORT': '39614',
+    }
+}
 
 
 # Password validation
