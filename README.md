@@ -11,8 +11,6 @@ DanVerse API is a Django RESTful API I designed to manage blog posts, comments, 
 - **Tags:** Categorize blog posts using tags.
 - **Likes and Loves:** Add likes and loves to blog posts.
 
-<img width="1437" alt="restful" src="https://github.com/bongomin/DanVerse-API/assets/39218838/35039138-3cfb-42f5-9c41-62e2f7fd47ec">
-
 ## API Endpoints
 
 The API provides the following endpoints:
@@ -89,6 +87,7 @@ The API provides the following endpoints:
    ```
 
 ## Deployment
+<img width="1437" alt="restful" src="https://github.com/bongomin/DanVerse-API/assets/39218838/35039138-3cfb-42f5-9c41-62e2f7fd47ec">
 
 The API is deployed on [Railway](https://danverse-api-production.up.railway.app/). Ensure your production environment variables are correctly configured.
 
