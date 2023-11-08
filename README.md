@@ -1,8 +1,5 @@
 ```markdown
 # DanVerse API
-<img width="1432" alt="Screenshot 2023-11-08 at 4 53 58 PM" src="https://github.com/bongomin/DanVerse-API/assets/39218838/6ce58994-10c6-4c37-b41c-d6ca72b684ab">
-
-<img width="1437" alt="Screenshot 2023-11-08 at 4 53 46 PM" src="https://github.com/bongomin/DanVerse-API/assets/39218838/83626c2d-54b1-4344-86d3-d7baa44f954d">
 DanVerse API is a Django RESTful API I designed to manage blog posts, comments, user profiles, tags, likes, and loves. It serves as the backend for your blogging platform.
 
 ## Features
@@ -90,6 +87,10 @@ The API provides the following endpoints:
 
 ## Deployment
 <img width="1437" alt="restful" src="https://github.com/bongomin/DanVerse-API/assets/39218838/35039138-3cfb-42f5-9c41-62e2f7fd47ec">
+
+<img width="1432" alt="Screenshot 2023-11-08 at 4 53 58 PM" src="https://github.com/bongomin/DanVerse-API/assets/39218838/6ce58994-10c6-4c37-b41c-d6ca72b684ab">
+
+<img width="1437" alt="Screenshot 2023-11-08 at 4 53 46 PM" src="https://github.com/bongomin/DanVerse-API/assets/39218838/83626c2d-54b1-4344-86d3-d7baa44f954d">
 
 The API is deployed on [Railway](https://danverse-api-production.up.railway.app/). Ensure your production environment variables are correctly configured.
 
